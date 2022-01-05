@@ -58,7 +58,7 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-# User Register, Login, Update Profile, Update Password
+## User Register, Login, Update Profile, Update Password
 1. http://127.0.0.1:3000/auth/register
 2. http://127.0.0.1:3000/auth/login
 3. http://127.0.0.1:3000/auth/update/password
