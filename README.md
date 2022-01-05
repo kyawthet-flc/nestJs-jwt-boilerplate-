@@ -58,6 +58,12 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+# User Register, Login, Update Profile, Update Password
+1. http://127.0.0.1:3000/auth/register
+2. http://127.0.0.1:3000/auth/login
+3. http://127.0.0.1:3000/auth/update/password
+4. http://127.0.0.1:3000/auth/update/password
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
