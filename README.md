@@ -60,10 +60,10 @@ $ npm run test:cov
 
 ## User Register, Login, Update Profile, Update Password
 ```bash
-1. http://127.0.0.1:3000/auth/register
-2. http://127.0.0.1:3000/auth/login
-3. http://127.0.0.1:3000/auth/update/password
-4. http://127.0.0.1:3000/auth/update/password
+1. [POST] http://127.0.0.1:3000/auth/register
+2. [POST] http://127.0.0.1:3000/auth/login
+3. [POST] http://127.0.0.1:3000/auth/update/password
+4. [POST] http://127.0.0.1:3000/auth/update/profile
 ```
 
 ## Support
